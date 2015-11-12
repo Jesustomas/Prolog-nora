@@ -1,0 +1,15 @@
+
+cola un chiste aquí y luego crea otro txt con algun texto 
+luego lo subes al servidor 
+
+comandos utiles...
+
+git status = checas si estan tus cambios en la carpeta tienen que estar en rojo con las modificaciones"
+git commit -a -m "aqui va el nuevo mensaje que le pones al hacer commit" = guarda los cambios echos
+git push origin = este comando te ayuda a subir los cambios al servidor.
+git fetch = funciona para cuando alguién mas hace un cambio actualiza tu repositorio..
+git merge origin/master = sirve para no recuerdo pero lo hacess espues de hacer un fetch
+
+
+
+
