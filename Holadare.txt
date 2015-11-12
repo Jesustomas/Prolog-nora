@@ -3,7 +3,7 @@ cola un chiste aquí y luego crea otro txt con algun texto
 luego lo subes al servidor 
 
 comandos utiles...
-
+git add = nombre del archivo y extencion ejemplo Holadare.txt = Agrega nuevos archivos que creas para hacer commit no son archivos modificados :P
 git status = checas si estan tus cambios en la carpeta tienen que estar en rojo con las modificaciones"
 git commit -a -m "aqui va el nuevo mensaje que le pones al hacer commit" = guarda los cambios echos
 git push origin = este comando te ayuda a subir los cambios al servidor.
